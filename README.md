@@ -1,1 +1,1 @@
-This is Atta's first git project.
+This is sipmply a git-test project.
